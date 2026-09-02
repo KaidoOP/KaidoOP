@@ -1,87 +1,98 @@
 # Idris Özcan
 
-**Software Developer · Independent Builder**
+**Software Developer · Backend, Cloud & Product Engineering**
 
-Building backend systems, modern web applications, and digital products.
+Building backend systems, modern web applications, and independent software products.
 
-<img src="./assets/developer-map.svg" alt="Technology stack covering frontend engineering, backend engineering, data and persistence, platform and operations, development workflow, and applied AI" width="100%" />
+<p align="center">
+  <img src="./assets/developer-map.png" alt="Idris Özcan Technology Stack" width="100%" />
+</p>
 
 ## About
 
-I build enterprise applications and independent software products, mainly around backend systems, APIs, and software architecture.
+I'm a software developer focused on backend engineering, APIs, software architecture, and increasingly cloud-native
+infrastructure.
 
-Currently completing vocational training in application development in Germany while independently building and shipping software and web products.
+Currently completing my software development apprenticeship in Germany while building and shipping independent software
+products and participating in technical challenges and hackathons.
+
+I enjoy taking ideas from architecture and implementation all the way to deployment.
 
 ## Technology
 
-<p>
-  <img src="https://img.shields.io/badge/Java-161B22?style=flat-square&amp;logo=openjdk&amp;logoColor=ED8B00" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-161B22?style=flat-square&amp;logo=springboot&amp;logoColor=6DB33F" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Vue_3-161B22?style=flat-square&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue 3" />
-  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
-</p>
-
-**Backend** — Java · Spring Boot · REST APIs · JPA / Hibernate · Maven<br />
-**Frontend** — Vue 3 · Quasar · TypeScript · JavaScript · Capacitor<br />
-**Data** — PostgreSQL · SQL · Liquibase<br />
-**Infrastructure** — Docker · Nginx<br />
-**Engineering** — Git · GitHub · GitLab · CI/CD
+**Backend** — Java · Spring Boot · REST APIs · JPA / Hibernate · Maven  
+**Frontend** — Vue 3 · TypeScript · Quasar · JavaScript · Capacitor  
+**Data** — PostgreSQL · SQL · Liquibase  
+**Platform & Delivery** — Docker · Nginx · CI/CD · Kubernetes *(learning)*  
+**Tools** — Git · GitHub · GitLab  
+**Applied AI** — Python · FastAPI · AI APIs · Speech Processing
 
 ## Featured Projects
 
 ### [KadriX](https://github.com/KaidoOP/KadriX)
 
-**IBM Bob Dev Day Hackathon project**
+**IBM Bob Dev Day Hackathon Project**
 
-AI-assisted launch workflow turning product briefs and demo footage into structured launch assets and generated preview videos.
+AI-assisted launch workflow that transforms product briefs and demo footage into structured launch assets and generated
+preview videos.
 
 `Vue 3` `TypeScript` `Python` `FastAPI` `Docker`
 
-→ Microservice-oriented backend behind an API gateway<br />
-→ Video processing with optional IBM watsonx.ai and Watson TTS integrations
+→ Microservice-oriented backend behind an API gateway  
+→ Automated video-processing workflow  
+→ IBM watsonx.ai and Watson Text-to-Speech integrations  
+→ Containerized services with Docker
+
+---
 
 ### QiblaSoul
 
-**Private mobile product · built end to end**
+**Independent Product · Built End to End**
 
-Multilingual mobile platform combining AI, speech processing, real-time services, and subscription functionality.
+Multilingual software platform combining AI, speech processing, mobile functionality, real-time services, and
+subscription features.
 
 `Java` `Spring Boot` `Vue 3` `Capacitor` `PostgreSQL`
 
-→ Backend, mobile frontend, authentication, notifications, localization, subscriptions, and deployment<br />
-→ AI and speech processing with REST and real-time service integration
+→ Backend APIs and mobile frontend  
+→ Authentication, notifications, localization, and subscriptions  
+→ AI and speech-processing integrations  
+→ REST and real-time service communication  
+→ Deployment and CI/CD workflows
 
-> `Idea` → `Architecture` → `Backend` → `Frontend` → `Mobile` → `Deployment`
+`Idea → Architecture → Backend → Frontend → Mobile → Deployment`
+
+---
 
 ### Mesh
 
-**Software engineering orchestration platform**
+**Software Engineering Orchestration Platform · Work in Progress**
 
-Coordinates software projects, requirements, tasks, repositories, decisions, and AI-assisted development workflows.
+Platform for coordinating software projects, requirements, tasks, repositories, technical decisions, and AI-assisted
+development workflows.
 
 `Java 21` `Spring Boot` `React` `TypeScript` `PostgreSQL`
 
-→ Durable task, run, and project orchestration<br />
-→ Isolated Git workspaces and parallel execution workflows
-
-## Hackathons & Building
-
-I enjoy turning ideas into working prototypes under real constraints and participating in hackathons and technical challenges.
-
-`IBM Bob Dev Day Hackathon` · `More projects coming`
+→ Durable project, task, and run orchestration  
+→ Isolated Git workspaces  
+→ Parallel execution workflows  
+→ AI-assisted software engineering workflows
 
 ## Currently
 
-→ Building independent software products<br />
-→ Deepening backend architecture and automation<br />
-→ Improving CI/CD and reliable deployment workflows
+→ Deepening my knowledge of Kubernetes and cloud-native infrastructure  
+→ Building independent software products  
+→ Improving CI/CD and reliable deployment workflows  
+→ Learning more about distributed systems and platform engineering  
+→ Building useful tools for developers and end users
 
-## Let's connect
+## Interests
 
-Software · Web · Hackathons · Interesting technical projects
+`Backend Engineering` · `Cloud` · `DevOps` · `Distributed Systems` · `AI` · `Hackathons` · `Developer Tools`
 
-[idris.oezcan@outlook.com](mailto:idris.oezcan@outlook.com)
+## Connect
+
+I'm interested in software engineering, cloud infrastructure, hackathons, open-source projects, and building useful
+products.
+
+**Email:** [idris.oezcan@outlook.com](mailto:idris.oezcan@outlook.com)
